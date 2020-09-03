@@ -18,6 +18,7 @@ body {
 
 #titre{
   font-family: 'Dancing script';
+  font-size: x-large;
 }
 ol, ul {
   list-style: none;
@@ -52,7 +53,8 @@ a:hover, a:focus, a:active {
 .header {
 background: url("../img/sun.jpg") no-repeat fixed;
 background-size: cover;
-min-height: 630px;
+width: 100%;
+height: 100%;
 position: relative;
 }
 
